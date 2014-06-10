@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 
 @property NSString *string;
+@property NSString *string2;
 
 @end
