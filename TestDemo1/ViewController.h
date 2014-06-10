@@ -13,4 +13,7 @@
 @property NSString *string;
 @property NSString *string2;
 
+
+-(void)method1;
+
 @end
