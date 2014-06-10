@@ -16,4 +16,6 @@
 
 -(void)method1;
 
+-(void)method2: (NSString *) string;
+
 @end
