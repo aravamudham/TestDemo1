@@ -13,4 +13,9 @@
 @property NSString *string;
 @property NSString *string2;
 
+
+-(void)method1;
+
+-(void)method2: (NSString *) string;
+
 @end
